@@ -4,7 +4,7 @@
   "description": "A completely offline, private document vault. Your files never leave your device.",
   "start_url": "./index.html",
   "scope": "./",
-  "display": "fullscreen",
+  "display": "standalone",
   "display_override": ["fullscreen", "standalone"],
   "orientation": "portrait",
   "background_color": "#050B08",
